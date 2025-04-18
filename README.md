@@ -2,7 +2,7 @@
 
 ## 🧑‍💻 Autores  
 - **Wenderlânya Medeiros Bizerra** (202411210030) - wenderlanya.medeiros@academico.ifpb.edu.br 
-- **José Fellipe Bernadino Lima** (202321210005) - jfellipebl2@gmail.com 
+- **José Fellipe Bernadino Lima** (202321210005) - fellipe.jose@academico.ifpb.edu.br 
 
 ---
 
