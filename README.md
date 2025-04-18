@@ -1,7 +1,7 @@
 # Projeto de Estatística Aplicada
 
 ## 🧑‍💻 Autores  
-- **Wenderlânya Medeiros Bizerra** (202411210030) - wenderlânya.medeiros@academico.ifpb.edu.br 
+- **Wenderlânya Medeiros Bizerra** (202411210030) - wenderlanya.medeiros@academico.ifpb.edu.br 
 - **José Fellipe Bernadino Lima** (202321210005) - email  
 
 ---
@@ -21,8 +21,6 @@ A relevância do tema se justifica tanto no aspecto social, ao permitir a invest
 
 - **Descrição breve:**  
 A base de dados apresenta registros diários das músicas mais reproduzidas na plataforma Spotify em 2024, contendo informações como data, posição no ranking global, nome da faixa, nome do artista, quantidade de reproduções (streams) e link da música na plataforma. O conjunto permite investigações tanto temporais quanto relacionais, o que é ideal para análises estatísticas com enfoque exploratório e descritivo.  
-
----
 
 - **Justificativa para a escolha:**
 A seleção desta base de dados se justifica por três fatores principais:
